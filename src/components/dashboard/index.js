@@ -6,7 +6,7 @@ function Dashboard() {
 
     return(
         <>
-            <Typography>Dashboard</Typography>
+            <Typography>Dashboard Page</Typography>
         </>
     );
 }
