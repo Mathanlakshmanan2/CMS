@@ -3,10 +3,11 @@ import "./index.css";
 import Typography from "@mui/material/Typography";
 
 function Dashboard() {
-
+    console.log("Dashboard");
+    
     return(
         <>
-            <Typography>Dashboard</Typography>
+            <Typography>Dashboard Page By Sharmilee</Typography>
         </>
     );
 }
