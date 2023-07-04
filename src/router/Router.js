@@ -17,7 +17,6 @@ const router = createBrowserRouter(
                 <Route path="person" element={<Person />} />
             </Route>
             <Route path="*" element={<PageNotFound />} />
-            <Route path="*"  />
         </Route>
     )
 );
